@@ -33,4 +33,5 @@
 - [**4. Internet of Things**](https://github.com/vuhoangit/Internet_of_Things)
 - [**5. Cloud**](https://github.com/vuhoangit/Cloud)
 
-## Khác
+## Operating System
+- [**1. Linux**](https://github.com/vuhoangit/Linux)
