@@ -1,7 +1,6 @@
 # Tổng hợp kiến thức
 
 ## Ngôn ngữ lập trình
-
 - [**1. C/C++**](https://github.com/vuhoangit/C)
 - [**2. C#**](https://github.com/vuhoangit/C)
 - [**3. Go**](https://github.com/vuhoangit/Go)
@@ -12,7 +11,6 @@
 - [**8. Solidity**](https://github.com/vuhoangit/Solidity)
 
 ## Database
-
 - [**1. Tổng quát**](https://github.com/vuhoangit/Database)
 - [**2. MySQL**](https://github.com/vuhoangit/Database)
 - [**3. Oracle**](https://github.com/vuhoangit/Database)
@@ -22,11 +20,9 @@
 - [**7. Microsoft SQL Server**](https://github.com/vuhoangit/Database)
 
 ## VCS
-
 - [**1. Git**](https://github.com/vuhoangit/Git)
 
-## Hệ thống phần mềm
-
+## Platforms 
 - [**1. Web**](https://github.com/vuhoangit/Web)
 - [**2. Mobile**](https://github.com/vuhoangit/Mobile)
 - [**3. Blockchain**](https://github.com/vuhoangit/Blockchain)
