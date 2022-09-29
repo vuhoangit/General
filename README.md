@@ -11,7 +11,7 @@
 - [**7. Python**](https://github.com/vuhoangit/Python)
 - [**8. Solidity**](https://github.com/vuhoangit/Solidity)
 
-## Cơ sở dữ liệu
+## Database
 
 - [**1. Tổng quát**](https://github.com/vuhoangit/Database)
 - [**2. MySQL**](https://github.com/vuhoangit/Database)
@@ -35,3 +35,7 @@
 
 ## Operating System
 - [**1. Linux**](https://github.com/vuhoangit/Linux)
+
+## Monitoring System
+- [**1. Gafana**](https://github.com/vuhoangit/Gafana)
+- [**2. Dynatrace**](https://github.com/vuhoangit/Dynatrace)
