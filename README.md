@@ -22,6 +22,9 @@
 ## VCS
 - [**Git**](https://github.com/vuhoangit/Git)
 
+## CI/CD
+- [**Jenkins**](https://github.com/vuhoangit/Jenkins)
+
 ## Platforms 
 - [**Web**](https://github.com/vuhoangit/Web)
 - [**Mobile**](https://github.com/vuhoangit/Mobile)
@@ -35,3 +38,5 @@
 ## Monitoring System
 - [**Gafana**](https://github.com/vuhoangit/Gafana)
 - [**Dynatrace**](https://github.com/vuhoangit/Dynatrace)
+- [**Kibana**](https://github.com/vuhoangit/Kibana)
+- [**Splunk**](https://github.com/vuhoangit/Splunk)
