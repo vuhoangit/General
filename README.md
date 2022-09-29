@@ -1,2 +1,7 @@
-# General
-Mục lục kiến thúc tổng hợp
+# Tổng hợp kiến thức
+
+## Ngôn ngữ lập trình
+
+## Hệ thống phần mềm
+
+## Khác
