@@ -1,6 +1,6 @@
 # Tổng hợp kiến thức
 
-## Ngôn ngữ lập trình
+## Programming language
 - [**1. C/C++**](https://github.com/vuhoangit/C)
 - [**2. C#**](https://github.com/vuhoangit/C)
 - [**3. Go**](https://github.com/vuhoangit/Go)
