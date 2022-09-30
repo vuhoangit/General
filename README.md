@@ -8,6 +8,7 @@
 - [**Java**](https://github.com/vuhoangit/Java)
 - [**Javascript**](https://github.com/vuhoangit/Javascript)
 - [**Python**](https://github.com/vuhoangit/Python)
+- [**Rust**](https://github.com/vuhoangit/Rust)
 - [**Solidity**](https://github.com/vuhoangit/Solidity)
 
 ## Database
