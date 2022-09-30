@@ -19,6 +19,13 @@
 - [**Redis**](https://github.com/vuhoangit/Database)
 - [**Microsoft SQL Server**](https://github.com/vuhoangit/Database)
 
+## Software Architecture
+- [**MVC**](https://github.com/vuhoangit/MVC)
+- [**MVP**](https://github.com/vuhoangit/MVP)
+- [**MVVM**](https://github.com/vuhoangit/MVVM)
+- [**REST API**](https://github.com/vuhoangit/REST_API)
+- [**GraphQl**](https://github.com/vuhoangit/GraphQl)
+
 ## VCS
 - [**Git**](https://github.com/vuhoangit/Git)
 
